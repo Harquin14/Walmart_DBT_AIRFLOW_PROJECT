@@ -1,5 +1,9 @@
 # Walmart_DBT_AIRFLOW_PROJECT
 
+<img width="1183" height="544" alt="Walmaet_arch" src="https://github.com/user-attachments/assets/234724bb-99e3-495f-bab0-041b26a54fd7" />
+
+
+
 ## Local setup
 
 1. Copy `walmart_dbt_airflow/.env.example` to `walmart_dbt_airflow/.env`.
