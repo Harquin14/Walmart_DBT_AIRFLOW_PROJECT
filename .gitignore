@@ -1,0 +1,10 @@
+.env
+.env.*
+!.env.example
+**/profiles.yml
+**/logs/
+**/config/airflow.cfg
+**/target/
+**/dbt_packages/
+__pycache__/
+*.py[cod]
