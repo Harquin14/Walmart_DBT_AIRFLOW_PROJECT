@@ -1,4 +1,4 @@
-# Walmart CDC Analytics Pipeline
+# Walmart DBT, Airflow & Databricks Analytics Pipeline
 
 A portfolio data engineering project that demonstrates how change data capture (CDC), cloud data processing, analytics engineering, and workflow orchestration can work together in a modern data stack.
 
